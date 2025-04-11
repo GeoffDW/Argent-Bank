@@ -3,7 +3,7 @@ import iconChat from "../../assets/icon-chat.webp"
 import iconMoney from "../../assets/icon-money.webp"
 import iconSecurity from "../../assets/icon-security.webp"
 import texts from "../../data/dataText.json";
-
+import Banner from "../../components/Banner/Banner";
 
 function Home() {
     const imageFeature = {
@@ -23,3 +23,5 @@ function Home() {
         </main>
     )
 }
+
+export default Home;
