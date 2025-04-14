@@ -1,6 +1,5 @@
 import React from "react";
-import text from "../../data/dataText.json";
-
+import './footer.css';
 
 function Footer({ text }) {
     return (
