@@ -5,6 +5,7 @@ import iconSecurity from "../../assets/icon-security.webp"
 import texts from "../../data/dataText.json";
 import Banner from "../../components/Banner/Banner";
 
+
 function Home() {
     const imageFeature = {
         "icon-chat.webp": iconChat,

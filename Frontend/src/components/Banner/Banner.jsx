@@ -1,5 +1,6 @@
 import React from "react";
 import img from "../../assets/banner.webp";
+import "./banner.css"
 
 function Banner ({ titleOne, titleTwo, text, alt}) {
 
